@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519771997932",
+    "project_id": "demoapp-4e846",
+    "storage_bucket": "demoapp-4e846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519771997932:android:d881852461b109657fc7c9",
+        "android_client_info": {
+          "package_name": "hr.tomislavplaninic.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr6aVCH_pQ_PSvLSmeOme3zItNwDZ7hWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
